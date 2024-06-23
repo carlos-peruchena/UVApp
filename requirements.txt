@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+suntime
+requests
+beautifulsoup4
+geopandas
+pydeck
